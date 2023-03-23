@@ -8,3 +8,8 @@
 	url = https://github.com/hyunseungkang/ivmodel
 	shallow = true
 	registered = true
+[submodule "sisVIVE"]
+	path = sisVIVE
+	url = https://github.com/cran/sisVIVE
+	shallow = true
+	registered = true
