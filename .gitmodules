@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "ivmodel"]
 	path = ivmodel
 	url = https://github.com/hyunseungkang/ivmodel
-	shallow = true
-	registered = true
 [submodule "sisVIVE"]
 	path = sisVIVE
 	url = https://github.com/cran/sisVIVE
-	shallow = true
-	registered = true
